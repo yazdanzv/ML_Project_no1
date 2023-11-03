@@ -16,6 +16,7 @@ dist/
 .idea/
 *.pdf
 *.xml
+*.docs
 downloads/
 eggs/
 .eggs/
