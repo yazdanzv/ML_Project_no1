@@ -11,6 +11,11 @@ __pycache__/
 build/
 develop-eggs/
 dist/
+.idea
+.idea/*
+.idea/
+*.pdf
+*.xml
 downloads/
 eggs/
 .eggs/
